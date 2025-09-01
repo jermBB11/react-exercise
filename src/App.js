@@ -1,5 +1,4 @@
 //import logo from './logo.svg';
-import './App.css';
 //import React from 'react';
 import Navbar from './Navbar';
 
@@ -8,8 +7,8 @@ import Navbar from './Navbar';
 function App() {
   const title='Welcome to Jerome Blog!';
   const likes= 55;
-
-  
+  //const person= {name: 'jerome', age: 23};
+  const link= "http://www.google.com";
   
 
   return (
